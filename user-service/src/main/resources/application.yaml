@@ -1,9 +1,0 @@
-spring:
-  cloud:
-    discovery:
-      enabled: false
-  application:
-    name: user-service
-
-server:
-  port: 8081
